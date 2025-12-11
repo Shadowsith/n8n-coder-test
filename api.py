@@ -1,1 +1,0 @@
-{{ $('AI Agent1').item.json.output }}
